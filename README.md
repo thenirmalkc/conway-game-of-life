@@ -2,7 +2,7 @@
 
 ## Live Demo [Click Me !!](https://thenirmalkc.github.io/conway-game-of-life/)
 
-![Conway's Game of Life](screenshots/unmarked-dead-ends-maze.png)
+![Conway's Game of Life](screenshots/conway's-game-of-life.png)
 
 ## Rules ( From Wiki )
 
